@@ -28,6 +28,7 @@ function App() {
 
     {/* react event object */}
     <button onClick={(event) => shoot3("Goal!", event)}>Take the shot!</button>
+    <h1>A</h1>
     </>
   )
 }
